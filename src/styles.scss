@@ -1,0 +1,13 @@
+// Import PrimeNG
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+
+// Import Tailwind CSS
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Custom styles
+body {
+  @apply bg-zinc-950 text-zinc-200;
+}
