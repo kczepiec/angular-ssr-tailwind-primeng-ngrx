@@ -1,21 +1,24 @@
 # Angular 16 SSR with Tailwind, PrimeNG and NGRX
 
-> An Angular starter kit featuring [Angular 16.2.2](https://angular.io), [Angular CLI 16.2.0](https://cli.angular.io/), [Angular Universal 16.2.0](https://github.com/angular/universal)
+> An Angular starter kit featuring [Angular 16.2.2](https://angular.io), [Angular CLI 16.2.0](https://cli.angular.io/), [Angular Universal 16.2.0](https://github.com/angular/universal), [PrimeNG 16.3.1](https://primeng.org/), [TailwindCSS 3.3.3](https://tailwindcss.com/), [NGRX 16.2.0](https://ngrx.io/)
 
-> it's part of a repo series designed to create a Progressive Web App with Angular
+## Dependencies
+
+- Angular: 16.2.2
+- Tailwind CSS: 3.3.3
+- Font Awesome: 6.4.2
+- Iconify: 5.0.0
+- PrimeNG: 16.3.1
+- NGRX: 16.2.0
 
 ## Quick start
 
 ```bash
-# choose a repo
-# download the example or clone the repo from github
-git clone https://github.com/ganatan/angular-ssr.git
-
-# download the example or clone the repo from gitlab
-git clone https://gitlab.com/ganatan/angular-ssr.git
+# Clone a repo
+git clone https://github.com/kczepiec/angular-ssr-tailwind-primeng-ngrx.git
 
 # change directory
-cd angular-ssr
+cd angular-ssr-tailwind-primeng-ngrx
 
 # install the repo with npm
 npm install
@@ -24,7 +27,7 @@ npm install
 npm start
 
 ```
-in your browser go to [http://localhost:4200](http://localhost:4200) 
+Local environment: [http://localhost:4200](http://localhost:4200) 
 
 ## Getting Started
 
@@ -45,3 +48,5 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 
 ### Author
 * Author  : melvin
+* Based on: [Angular SSR](https://github.com/ganatan/angular-ssr/tree/master) by @ganatan
+
