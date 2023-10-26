@@ -4,12 +4,12 @@
 
 ## Dependencies
 
-- Angular: 16.2.3
+- Angular: 16.2.8
 - Tailwind CSS: 3.3.3
 - Font Awesome: 6.4.2
 - Iconify: 5.0.0
-- PrimeNG: 16.3.1
-- NGRX: 16.2.0
+- PrimeNG: 16.5.1
+- NGRX: 16.3.0
 
 ## Quick start
 
